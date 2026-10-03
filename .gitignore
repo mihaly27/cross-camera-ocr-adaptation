@@ -1,0 +1,40 @@
+# Private / large data
+data/
+datasets/
+videos/
+runs/
+weights/
+checkpoints/
+private/
+*.mp4
+*.avi
+*.mkv
+*.mov
+*.zip
+*.rar
+*.7z
+*.onnx
+*.pdparams
+*.pth
+*.pt
+
+# Private manifests / labels
+manifests/private/
+*private_manifest*.csv
+*ground_truth_private*.csv
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Generated results
+results/raw/
+experiments/**/artifacts/
