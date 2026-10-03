@@ -1,0 +1,6 @@
+camera_id,system_name,location_type,vehicle_regime,through_glass,same_scene_partner,resolution,fps,view_geometry,notes
+G1,,garage,mostly_stationary,no,G2,,,parking-area view A; six-place paired scene,
+G2,,garage,mostly_stationary,no,G1,,,opposing parking-area view B; same six places,
+G3,,garage,moving,no,,,,corridor/turning view,
+T1,,street,moving,yes,T2,,,through-glass street view A,
+T2,,street,moving,yes,T1,,,through-glass street view B,
