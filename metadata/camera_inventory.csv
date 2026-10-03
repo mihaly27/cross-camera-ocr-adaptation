@@ -1,0 +1,6 @@
+camera_id,dataset_id,storage_location,dataset_sha256,total_files,labelled_crops,unique_vehicle_identities,current_model,current_model_sha256,representative_run,replayable_clip,notes
+G1,,,,,,,,,,,
+G2,,,,,,,,,,,
+G3,,,,,,,,,,,
+T1,,,,,,,,,,,
+T2,,,,,,,,,,,
